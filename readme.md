@@ -14,3 +14,7 @@ We use Python and PyTorch as development environments.
 - pip install graphviz 
 - pip install torchviz
 - pip install wandb
+
+## Chapter
+1. Tensors
+2. Real world data
