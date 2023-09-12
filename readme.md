@@ -18,3 +18,14 @@ We use Python and PyTorch as development environments.
 ## Chapter
 1. Tensors
 2. Real world data
+3. Learning & Autograd
+4. FCNN
+5. FCNN Best Practice
+6. CNN
+7. Diverse Techniques
+8. Advanced CNN
+9. Object Detection
+10. RNN
+11. LSTM GRU
+12. Handling Time Series
+13. Generative Models
