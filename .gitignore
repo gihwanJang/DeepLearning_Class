@@ -9,3 +9,6 @@ wandb
 
 # data :
 Data
+
+# models
+checkpoints
